@@ -1,0 +1,471 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.bg-color-1 {
+  background-color: #ff2f00;
+  transition: background-color 1.5s ease;
+  -webkit-transition: background-color 1.5s ease;
+  -moz-transition: background-color 1.5s ease;
+  -ms-transition: background-color 1.5s ease;
+  -o-transition: background-color 1.5s ease;
+}
+
+.bg-color-2 {
+  background-color: #00ff2f;
+  transition: background-color 1.5s ease;
+  -webkit-transition: background-color 1.5s ease;
+  -moz-transition: background-color 1.5s ease;
+  -ms-transition: background-color 1.5s ease;
+  -o-transition: background-color 1.5s ease;
+}
+
+.bg-color-3 {
+  background-color: #3f20ca;
+  transition: background-color 1.5s ease;
+  -webkit-transition: background-color 1.5s ease;
+  -moz-transition: background-color 1.5s ease;
+  -ms-transition: background-color 1.5s ease;
+  -o-transition: background-color 1.5s ease;
+}
+
+.bg-color-4 {
+  background-color: #eb1a4e;
+  transition: background-color 1.5s ease;
+  -webkit-transition: background-color 1.5s ease;
+  -moz-transition: background-color 1.5s ease;
+  -ms-transition: background-color 1.5s ease;
+  -o-transition: background-color 1.5s ease;
+}
+
+.bg-color-5 {
+  background-color: #19d8a8;
+  transition: background-color 1.5s ease;
+  -webkit-transition: background-color 1.5s ease;
+  -moz-transition: background-color 1.5s ease;
+  -ms-transition: background-color 1.5s ease;
+  -o-transition: background-color 1.5s ease;
+}
+
+.bg-color-6 {
+  background-color: #e87b0e;
+  transition: background-color 1.5s ease;
+  -webkit-transition: background-color 1.5s ease;
+  -moz-transition: background-color 1.5s ease;
+  -ms-transition: background-color 1.5s ease;
+  -o-transition: background-color 1.5s ease;
+}
+
+.bg-color-7 {
+  background-color: #00b6f3;
+  transition: background-color 1.5s ease;
+  -webkit-transition: background-color 1.5s ease;
+  -moz-transition: background-color 1.5s ease;
+  -ms-transition: background-color 1.5s ease;
+  -o-transition: background-color 1.5s ease;
+}
+
+.bg-color-8 {
+  background-color: #ff0000;
+  transition: background-color 1.5s ease;
+  -webkit-transition: background-color 1.5s ease;
+  -moz-transition: background-color 1.5s ease;
+  -ms-transition: background-color 1.5s ease;
+  -o-transition: background-color 1.5s ease;
+}
+
+.bg-color-9 {
+  background-color: #00ff80;
+  transition: background-color 1.5s ease;
+  -webkit-transition: background-color 1.5s ease;
+  -moz-transition: background-color 1.5s ease;
+  -ms-transition: background-color 1.5s ease;
+  -o-transition: background-color 1.5s ease;
+}
+
+.bg-color-10 {
+  background-color: #7719d5;
+  transition: background-color 1.5s ease;
+  -webkit-transition: background-color 1.5s ease;
+  -moz-transition: background-color 1.5s ease;
+  -ms-transition: background-color 1.5s ease;
+  -o-transition: background-color 1.5s ease;
+}
+
+.bg-color-11 {
+  background-color: #c15915;
+  transition: background-color 1.5s ease;
+  -webkit-transition: background-color 1.5s ease;
+  -moz-transition: background-color 1.5s ease;
+  -ms-transition: background-color 1.5s ease;
+  -o-transition: background-color 1.5s ease;
+}
+
+.bg-color-12 {
+  background-color: #33b209;
+  transition: background-color 1.5s ease;
+  -webkit-transition: background-color 1.5s ease;
+  -moz-transition: background-color 1.5s ease;
+  -ms-transition: background-color 1.5s ease;
+  -o-transition: background-color 1.5s ease;
+}
+
+.bg-color-13 {
+  background-color: #164ae8;
+  transition: background-color 1.5s ease;
+  -webkit-transition: background-color 1.5s ease;
+  -moz-transition: background-color 1.5s ease;
+  -ms-transition: background-color 1.5s ease;
+  -o-transition: background-color 1.5s ease;
+}
+
+.bg-color-14 {
+  background-color: #FF3300;
+  transition: background-color 1.5s ease;
+  -webkit-transition: background-color 1.5s ease;
+  -moz-transition: background-color 1.5s ease;
+  -ms-transition: background-color 1.5s ease;
+  -o-transition: background-color 1.5s ease;
+}
+
+.bg-color-15 {
+  background-color: #09b34d;
+  transition: background-color 1.5s ease;
+  -webkit-transition: background-color 1.5s ease;
+  -moz-transition: background-color 1.5s ease;
+  -ms-transition: background-color 1.5s ease;
+  -o-transition: background-color 1.5s ease;
+}
+
+.bg-color-16 {
+  background-color: #2e00ba;
+  transition: background-color 1.5s ease;
+  -webkit-transition: background-color 1.5s ease;
+  -moz-transition: background-color 1.5s ease;
+  -ms-transition: background-color 1.5s ease;
+  -o-transition: background-color 1.5s ease;
+}
+
+.bg-color-17 {
+  background-color: #FF3300;
+  transition: background-color 1.5s ease;
+  -webkit-transition: background-color 1.5s ease;
+  -moz-transition: background-color 1.5s ease;
+  -ms-transition: background-color 1.5s ease;
+  -o-transition: background-color 1.5s ease;
+}
+
+.bg-color-18 {
+  background-color: #187f56;
+  transition: background-color 1.5s ease;
+  -webkit-transition: background-color 1.5s ease;
+  -moz-transition: background-color 1.5s ease;
+  -ms-transition: background-color 1.5s ease;
+  -o-transition: background-color 1.5s ease;
+}
+
+.bg-color-19 {
+  background-color: #4100c3;
+  transition: background-color 1.5s ease;
+  -webkit-transition: background-color 1.5s ease;
+  -moz-transition: background-color 1.5s ease;
+  -ms-transition: background-color 1.5s ease;
+  -o-transition: background-color 1.5s ease;
+}
+
+.bg-color-20 {
+  background-color: #d5093c;
+  transition: background-color 1.5s ease;
+  -webkit-transition: background-color 1.5s ease;
+  -moz-transition: background-color 1.5s ease;
+  -ms-transition: background-color 1.5s ease;
+  -o-transition: background-color 1.5s ease;
+}
+
+.color-1 {
+  color: #ff2f00;
+  transition: color 1.5s ease;
+  -webkit-transition: color 1.5s ease;
+  -moz-transition: color 1.5s ease;
+  -ms-transition: color 1.5s ease;
+  -o-transition: color 1.5s ease;
+}
+
+.color-2 {
+  color: #00ff2f;
+  transition: color 1.5s ease;
+  -webkit-transition: color 1.5s ease;
+  -moz-transition: color 1.5s ease;
+  -ms-transition: color 1.5s ease;
+  -o-transition: color 1.5s ease;
+}
+
+.color-3 {
+  color: #3f20ca;
+  transition: color 1.5s ease;
+  -webkit-transition: color 1.5s ease;
+  -moz-transition: color 1.5s ease;
+  -ms-transition: color 1.5s ease;
+  -o-transition: color 1.5s ease;
+}
+
+.color-4 {
+  color: #eb1a4e;
+  transition: color 1.5s ease;
+  -webkit-transition: color 1.5s ease;
+  -moz-transition: color 1.5s ease;
+  -ms-transition: color 1.5s ease;
+  -o-transition: color 1.5s ease;
+}
+
+.color-5 {
+  color: #19d8a8;
+  transition: color 1.5s ease;
+  -webkit-transition: color 1.5s ease;
+  -moz-transition: color 1.5s ease;
+  -ms-transition: color 1.5s ease;
+  -o-transition: color 1.5s ease;
+}
+
+.color-6 {
+  color: #e87b0e;
+  transition: color 1.5s ease;
+  -webkit-transition: color 1.5s ease;
+  -moz-transition: color 1.5s ease;
+  -ms-transition: color 1.5s ease;
+  -o-transition: color 1.5s ease;
+}
+
+.color-7 {
+  color: #00b6f3;
+  transition: color 1.5s ease;
+  -webkit-transition: color 1.5s ease;
+  -moz-transition: color 1.5s ease;
+  -ms-transition: color 1.5s ease;
+  -o-transition: color 1.5s ease;
+}
+
+.color-8 {
+  color: #ff0000;
+  transition: color 1.5s ease;
+  -webkit-transition: color 1.5s ease;
+  -moz-transition: color 1.5s ease;
+  -ms-transition: color 1.5s ease;
+  -o-transition: color 1.5s ease;
+}
+
+.color-9 {
+  color: #00ff80;
+  transition: color 1.5s ease;
+  -webkit-transition: color 1.5s ease;
+  -moz-transition: color 1.5s ease;
+  -ms-transition: color 1.5s ease;
+  -o-transition: color 1.5s ease;
+}
+
+.color-10 {
+  color: #7719d5;
+  transition: color 1.5s ease;
+  -webkit-transition: color 1.5s ease;
+  -moz-transition: color 1.5s ease;
+  -ms-transition: color 1.5s ease;
+  -o-transition: color 1.5s ease;
+}
+
+.color-11 {
+  color: #c15915;
+  transition: color 1.5s ease;
+  -webkit-transition: color 1.5s ease;
+  -moz-transition: color 1.5s ease;
+  -ms-transition: color 1.5s ease;
+  -o-transition: color 1.5s ease;
+}
+
+.color-12 {
+  color: #33b209;
+  transition: color 1.5s ease;
+  -webkit-transition: color 1.5s ease;
+  -moz-transition: color 1.5s ease;
+  -ms-transition: color 1.5s ease;
+  -o-transition: color 1.5s ease;
+}
+
+.color-13 {
+  color: #164ae8;
+  transition: color 1.5s ease;
+  -webkit-transition: color 1.5s ease;
+  -moz-transition: color 1.5s ease;
+  -ms-transition: color 1.5s ease;
+  -o-transition: color 1.5s ease;
+}
+
+.color-14 {
+  color: #FF3300;
+  transition: color 1.5s ease;
+  -webkit-transition: color 1.5s ease;
+  -moz-transition: color 1.5s ease;
+  -ms-transition: color 1.5s ease;
+  -o-transition: color 1.5s ease;
+}
+
+.color-15 {
+  color: #09b34d;
+  transition: color 1.5s ease;
+  -webkit-transition: color 1.5s ease;
+  -moz-transition: color 1.5s ease;
+  -ms-transition: color 1.5s ease;
+  -o-transition: color 1.5s ease;
+}
+
+.color-16 {
+  color: #2e00ba;
+  transition: color 1.5s ease;
+  -webkit-transition: color 1.5s ease;
+  -moz-transition: color 1.5s ease;
+  -ms-transition: color 1.5s ease;
+  -o-transition: color 1.5s ease;
+}
+
+.color-17 {
+  color: #FF3300;
+  transition: color 1.5s ease;
+  -webkit-transition: color 1.5s ease;
+  -moz-transition: color 1.5s ease;
+  -ms-transition: color 1.5s ease;
+  -o-transition: color 1.5s ease;
+}
+
+.color-18 {
+  color: #187f56;
+  transition: color 1.5s ease;
+  -webkit-transition: color 1.5s ease;
+  -moz-transition: color 1.5s ease;
+  -ms-transition: color 1.5s ease;
+  -o-transition: color 1.5s ease;
+}
+
+.color-19 {
+  color: #4100c3;
+  transition: color 1.5s ease;
+  -webkit-transition: color 1.5s ease;
+  -moz-transition: color 1.5s ease;
+  -ms-transition: color 1.5s ease;
+  -o-transition: color 1.5s ease;
+}
+
+.color-20 {
+  color: #d5093c;
+  transition: color 1.5s ease;
+  -webkit-transition: color 1.5s ease;
+  -moz-transition: color 1.5s ease;
+  -ms-transition: color 1.5s ease;
+  -o-transition: color 1.5s ease;
+}
+
+#quote-box {
+  width: 550px;
+  height: 286.5px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+
+@media screen and (max-width: 550px) {
+  #quote-box {
+    width: fit-content;
+    height: 400px;
+  }
+}
+#text {
+  font-size: 26px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+  margin: 0 30px;
+  --animate-duration: 2s;
+}
+
+#author {
+  font-size: 16px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: end;
+  margin-right: 30px;
+  --animate-duration: 2s;
+}
+
+.contenido {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  gap: 10px;
+}
+
+#tweet-quote {
+  width: 35px;
+  height: 35px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+
+#linkedin-post {
+  width: 35px;
+  height: 35px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+
+.content-buttons {
+  display: flex;
+  flex-direction: row;
+  margin: 0 50px;
+  margin-top: 10px;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 550px) {
+  .content-buttons {
+    margin: 0 20px;
+  }
+}
+.content-link {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+.content-link a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#new-quote {
+  width: 100px;
+  color: white;
+  border-width: 0px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+#new-quote:hover {
+  filter: brightness(1.3);
+  -webkit-filter: brightness(1.3);
+}
+
+.dev-author {
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+  font-weight: 600;
+  user-select: none;
+}
+
+/*# sourceMappingURL=App.css.map */
